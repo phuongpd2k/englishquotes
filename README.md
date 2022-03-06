@@ -1,2 +1,2 @@
-# me.zuyfun.englishquotes
+englishquotes
 Flutter App: English Quotes
